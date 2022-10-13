@@ -6,16 +6,15 @@
       "price":100,
       "size":"30*40",
       "foundation":"stretcher",
-      "shape":"circle"
+      "shape":"circle",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuhjz8w3rcSuhEZVPUY23pipNFMOB7fMOjw&usqp=CAU"
-    },
-    {
+    },{
       "id": 2,
       "title": "Holst",
       "price":120,
       "size":"40*50",
       "foundation":"stretcher",
-      "shape":"square"
+      "shape":"square",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAR-P92e9q5Y6T4eyUD6c55TTctF9gO-_Wg&usqp=CAU"
     },{
       "id": 3,
@@ -23,7 +22,7 @@
       "price":105,
       "size":"30*40",
       "foundation":"cardboard",
-      "shape":"circle"
+      "shape":"circle",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkk0BKoTlf0cPTsDl9SOE8Bq9mZvFBhFl-Gw&usqp=CAU"
     },{
       "id": 4,
@@ -31,7 +30,7 @@
       "price":150,
       "size":"50*60",
       "foundation":"stretcher",
-      "shape":"square"
+      "shape":"square",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GLH2y2Uf959cplELInkDjKKVo8JGUWgR1A&usqp=CAU"
     },{
       "id": 5,
@@ -39,7 +38,7 @@
       "price":80,
       "size":"30*30",
       "foundation":"cardboard",
-      "shape":"circle"
+      "shape":"circle",
       "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUqnka1bVPGpcmBdHq0BsHxQM1F7SG5xwFQ&usqp=CAU"
     }   
   ],
