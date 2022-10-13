@@ -1,1 +1,77 @@
-
+{
+  "holsts": [
+    {
+      "id": 1,
+      "title": "Holst",
+      "price":100,
+      "size":"30*40",
+      "foundation":"stretcher",
+      "shape":"circle"
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAuhjz8w3rcSuhEZVPUY23pipNFMOB7fMOjw&usqp=CAU"
+    },
+    {
+      "id": 2,
+      "title": "Holst",
+      "price":120,
+      "size":"40*50",
+      "foundation":"stretcher",
+      "shape":"square"
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFAR-P92e9q5Y6T4eyUD6c55TTctF9gO-_Wg&usqp=CAU"
+    },{
+      "id": 3,
+      "title": "Holst",
+      "price":105,
+      "size":"30*40",
+      "foundation":"cardboard",
+      "shape":"circle"
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkk0BKoTlf0cPTsDl9SOE8Bq9mZvFBhFl-Gw&usqp=CAU"
+    },{
+      "id": 4,
+      "title": "Holst",
+      "price":150,
+      "size":"50*60",
+      "foundation":"stretcher",
+      "shape":"square"
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5GLH2y2Uf959cplELInkDjKKVo8JGUWgR1A&usqp=CAU"
+    },{
+      "id": 5,
+      "title": "Holst",
+      "price":80,
+      "size":"30*30",
+      "foundation":"cardboard",
+      "shape":"circle"
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCUqnka1bVPGpcmBdHq0BsHxQM1F7SG5xwFQ&usqp=CAU"
+    }   
+  ],
+  "penscil":[
+    {
+      "id": 6,
+      "title": "Pencil",
+      "price":100,
+      "length":15,
+      "colour":"red",
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL-x6MmqrmBqo3FbkS8w0KtLXdJMMOS9z93_b_UqnuxdjenTiywiQc0Fehxpr2J6-FtQU&usqp=CAU"
+    },{
+      "id": 7,
+      "title": "Pencil",
+      "price":100,
+      "length":15,
+      "colour":"yellow",
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOlyRELeiMw8Ic4DjRPV-1cTnFvfBByUeEg&usqp=CAU"
+    },{
+      "id": 8,
+      "title": "Pencil",
+      "price":100,
+      "length":15,
+      "colour":"blue",
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh1kgTKJY64_J6QmCP3GCD6y9ST8SnO4N9iA&usqp=CAU"
+    },{
+      "id": 9,
+      "title": "Pencil",
+      "price":100,
+      "length":15,
+      "colour":"black",
+      "imageSrc":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdVObgea149sLXL1cGfoJo0lPB91mlhwiw8g&usqp=CAU"
+    },
+  ]
+}
